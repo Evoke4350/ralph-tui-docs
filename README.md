@@ -55,7 +55,7 @@ ralph-tui run --epic my-project-epic
 - **[Configuration Guide](guides/CONFIGURATION.md)** - Configuration reference
 - **[Integrations Guide](guides/INTEGRATIONS.md)** - Integration guides for Claude Code, OpenCode, etc.
 - **[Troubleshooting Guide](guides/TROUBLESHOOTING.md)** - Common issues and solutions
-- **[International Resources](community-international/INTERNATIONAL_RESOURCES.md)** - Korean, Chinese, Japanese, Vietnamese resources
+- **[Community Resources](COMMUNITY_RESOURCES.md)** - Global community resources (English, Korean, Chinese, Japanese, Vietnamese)
 - **[Disclaimer](DISCLAIMER.md)** - Project disclaimer
 
 ## How It Works
