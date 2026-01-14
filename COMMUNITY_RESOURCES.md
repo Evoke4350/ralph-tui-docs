@@ -5,10 +5,10 @@ Global developer community resources for Ralph TUI, Ralph Wiggum, OpenCode, and 
 ## Quick Navigation
 
 - [English Resources](#english-resources)
-- [Korean Resources (한국어)](#korean-resources-한국어)
-- [Chinese Resources (中文)](#chinese-resources-中文)
-- [Japanese Resources (日本語)](#japanese-resources-日本語)
-- [Vietnamese Resources (Tiếng Việt)](#vietnamese-resources-tiếng-việt)
+- [Korean Resources](#korean-resources)
+- [Chinese Resources](#chinese-resources)
+- [Japanese Resources](#japanese-resources)
+- [Vietnamese Resources](#vietnamese-resources)
 - [Key Terminology](#key-terminology-across-languages)
 - [Contributing](#contributing)
 
@@ -104,7 +104,9 @@ From [AI Hero Dev](https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum):
 
 ---
 
-## Korean Resources (한국어)
+## Korean Resources
+
+*한국어 리소스*
 
 ### Blog Series
 
@@ -154,7 +156,9 @@ From [AI Hero Dev](https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum):
 
 ---
 
-## Chinese Resources (中文)
+## Chinese Resources
+
+*中文资源*
 
 ### Juejin (掘金) Articles
 
@@ -208,7 +212,9 @@ From [AI Hero Dev](https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum):
 
 ---
 
-## Japanese Resources (日本語)
+## Japanese Resources
+
+*日本語リソース*
 
 ### Zenn Articles
 
@@ -270,7 +276,9 @@ Applied to multi-agent systems where each agent specializes in their domain:
 
 ---
 
-## Vietnamese Resources (Tiếng Việt)
+## Vietnamese Resources
+
+*Tài nguyên tiếng Việt*
 
 ### Viblo.asia Articles
 
